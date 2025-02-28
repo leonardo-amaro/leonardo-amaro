@@ -1,6 +1,6 @@
-# Olá, me chamo Leonardo! 👋
+# 👋 Olá, me chamo Leonardo!
 
-🎯 Desenvolvedor Front-End focado em ReactJS  
+💻 Desenvolvedor Front-End focado em ReactJS  
 📍 São Paulo - SP  
 📚 Apaixonado por tecnologia, aprendizado contínuo e resolução de problemas  
 
