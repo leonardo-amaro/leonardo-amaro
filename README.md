@@ -6,7 +6,7 @@
 
 ## 👓 Estatísticas do GitHub
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-amaro&layout=compact&theme=dark)](https://github.com/leonardo-amaro)
+![Top linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-amaro&theme=react&show_icons=true&hide_border=true&layout=compact)
 
 ## 🚀 Minhas Tecnologias  
 
